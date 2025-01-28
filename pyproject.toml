@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-connection-helper"
+description = "This is a helper extension for ComfyUI that assists with node connections."
+version = "0.1"
+license = { file = "LICENSE.txt" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/ltdrdata/comfyui-connection-helper"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "drltdata"
+DisplayName = "ComfyUI Connection Helper"
+Icon = ""
