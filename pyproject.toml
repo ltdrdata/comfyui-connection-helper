@@ -1,5 +1,5 @@
 [project]
-name = "comfyui-connection-helper"
+name = "connection-helper"
 description = "This is a helper extension for ComfyUI that assists with node connections."
 version = "0.1"
 license = { file = "LICENSE.txt" }
